@@ -1,0 +1,5 @@
+SeleniumFramework/Test_Jasper_Report/*
+SeleniumFramework/Test_Reports_*/
+target/*
+SeleniumFramework/TestExecutionZip_Reports/*
+/target/
